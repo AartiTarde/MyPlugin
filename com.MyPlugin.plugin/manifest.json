@@ -1,0 +1,18 @@
+{
+  "name": "com.MyPlugin.plugin",
+  "version": "1.0.0",
+  "displayName": "Fetch Plugin",
+  "description": "This is an example package",
+  "unity": "2022.3.20f1",
+  "author":"Aarti Tarde",
+  "unityRelease": "",
+  "documentationUrl": "",
+  "dependencies": {
+    
+ },
+"repository":{
+"type":"github",
+"url":"https://github.com/AartiTarde/MyPlugin.plugin.git"
+}
+  
+}
