@@ -1,0 +1,6 @@
+{
+	"name": "MyPlugin.plugin",
+	"reference":[],
+	"optionalUnityReferences":[],
+	"excludePlatforms":[],
+}
